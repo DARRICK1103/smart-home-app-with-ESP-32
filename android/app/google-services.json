@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "853994132327",
+    "firebase_url": "https://esp-32-d9503-default-rtdb.firebaseio.com",
+    "project_id": "esp-32-d9503",
+    "storage_bucket": "esp-32-d9503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853994132327:android:d223a82e588fa2e28455c2",
+        "android_client_info": {
+          "package_name": "com.example.ai_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0a2exYgAMz8pwpkIksm5oC4eZ0DJFbVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853994132327:android:e19951b15c7104ed8455c2",
+        "android_client_info": {
+          "package_name": "com.example.test02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0a2exYgAMz8pwpkIksm5oC4eZ0DJFbVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
